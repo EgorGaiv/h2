@@ -7,4 +7,4 @@
 <p>-Using a minimized platform without unnecessary functions, protocols, documentation, dependencies and components</p>
 <p>-Automation of most processes (checking settings, updates and configuration security effectiveness)</p>
 <p>-Use components only from official sources via secure links.</p>
-<p>All articles contain a lot of useful information, ranging from problem areas and vulnerabilities, ending with useful tips and statistics, I can confidently say that I liked reading this :)/p>
+<p>All articles contain a lot of useful information, ranging from problem areas and vulnerabilities, ending with useful tips and statistics, I can confidently say that I liked reading this :)</p>
